@@ -1,0 +1,492 @@
+Timestamp,A1. Name,A2. Gender,A3. University Name,A4. Current academic year,A5. Where do you primarily stay during the semester?,A6. Which internet connection do you mainly use?,B1. Is free Wi-Fi or LAN internet available in your university campus?,B2. Can you access the internet in your department’s lab or central library?,B3. Do you have a broadband or fiber internet connection at your home/mess?,B4. Do you have a 4G/5G mobile data plan that you regularly use?,C1. Is internet speed often too slow due to insufficient bandwidth?,C2. Does frequent power outage (load shedding) interrupt your internet use?,C3. Do you experience network congestion (slow speed during peak hours)?,C4. Have you faced difficulty logging into the internet server or connecting to Wi-Fi?,C5. Do you find the cost of internet (BDT per GB) too expensive for your budget?,C6. Is your ISP’s or mobile operator’s customer support ineffective when you report problems?,"D1. Overall, are you satisfied with the quality of internet service you currently receive?",D2. Do you think the university administration should improve internet facilities?,D3. Does unstable internet disrupt your online classes or study activities?,"E1. Do you agree that if internet quality improves, your satisfaction will increase?","E2. If the internet were reliable and fast, would you use more digital services (e.g., online library, registration)?",F1. The internet speed on my campus is sufficient for online classes and video conferencing.,F2. I have alternative power backup (UPS/inverter/mobile hotspot) to continue internet during power cuts.,"F3. Data pack prices among mobile operators (Grameenphone, Robi, Banglalink, Teletalk) are competitive.",F4. I frequently experience network drops or connection interruptions.,"F5. Overall, the quality of internet service has a positive impact on my academic performance."
+4/21/2026 11:24:26,Md. Mehedi Hasan ,Male,Dhaka International University ,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,3,1,5,5,3
+4/21/2026 11:32:27,Rifatul Islam,Male,Dhaka international University ,3rd year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,3,5,4,5,5
+4/21/2026 11:35:42,Ahmad Ullah,Male,Dhaka International University ,3rd year,Family home,Multiple types,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,3,3,4,3,4
+4/21/2026 11:47:37,PARTHA HALDER,Male,Dhaka International University,3rd year,Family home,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,4,3,2,3,3
+4/21/2026 11:52:38,Marjanah Afrose ,Female,Dhaka International University ,3rd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,3,4,1,4,5
+4/21/2026 21:21:19,Zishan Ahmmed ,Male,Dhaka International University ,3rd year,Family home,Multiple types,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,3,3,4,5,3
+4/22/2026 12:07:55,Md Payel,Male,Dhaka international university ,2nd year,Private hostel/mess,Mobile data only,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,3,4,3,4,4
+4/23/2026 10:30:41,Md mukit,Male,Dhaka international University ,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,4,3,2,3,4
+4/23/2026 11:24:20,Azim Hossain Alvi ,Male,Dhaka international university,3rd year,Private hostel/mess,Mobile data only,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,5,3,3,3,3
+4/23/2026 11:25:03,Saeid,Male,Dhaka international University ,3rd year,Family home,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,4,2,2,4,4
+4/23/2026 11:33:57,Afzal Hossain Robi,Male,Dhaka international university ,3rd year,Family home,University Wi-Fi,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,4,1,1,1,4
+4/23/2026 12:49:34,Sadia Akter,Female,Dhaka International University ,3rd year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,4,4,3,4,4
+4/23/2026 23:50:39,Nasim Ahamed Emon,Male,Dhaka International University,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,1,3,3,4
+4/24/2026 15:18:28,Parves Hossain Emon ,Male,Dhaka International University ,3rd year,Family home,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,3,3,4,4,2
+4/26/2026 8:25:01,Omar Faruk,Male,Southeast university ,3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,4,3,4
+4/28/2026 16:54:37,Prarthona chakma ,Female,Dhaka international University ,1st year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,2,1,3,3,3
+4/28/2026 23:03:56,Swadhin Chakraborty ,Male,Dhaka International University ,3rd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,2,1,3,1,2
+4/28/2026 23:10:30,Raihan Alam Seaim ,Male,Dhaka International University ,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,2,1,1,3,4
+4/28/2026 23:10:31,Pranta Saha ,Male,Dhaka International university ,4th year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,1,1,1,1
+4/28/2026 23:11:26,Sundar Pichai,Male,Dhaka University ,4th year,University hall,Multiple types,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,3,3,4,5,2
+4/28/2026 23:11:37,Ariya Mahmud Ishu ,Female,Dhaka International University ,3rd year,Family home,Home broadband/Fiber,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,1,4,5,4,2
+4/28/2026 23:14:56,Siam Bosunia ,Male,Dhaka international University ,3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,3,3,3,2,1
+4/28/2026 23:17:48,Anamika Rani Roy ,Female,Northern university Bangladesh ,3rd year,Family home,Multiple types,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,4,4,4,4,4
+4/28/2026 23:22:52,Md Abdur Rahman,Male,Dhaka International University,2nd year,Family home,Multiple types,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,4,3,3,3,4
+4/28/2026 23:23:08,Antu paul ,Male,Dhaka University ,3rd year,Family home,Multiple types,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,3,3,1,3,4
+4/28/2026 23:27:35,Nanjiba tasnim ,Female,Jagannath University ,2nd year,Family home,Multiple types,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,2,3,5,5,4
+4/28/2026 23:27:52,Sanchita Chakraborty ,Female,North South University ,1st year,University hall,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,3,3,2,4,3
+4/28/2026 23:29:03,Md. Yousuf Hossain,Male,Dhaka International University ,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,1,1,1,1
+4/28/2026 23:30:37,Shribash Sarker,Male,Jagannath University ,3rd year,Private hostel/mess,Multiple types,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,3,2,2,1,2
+4/28/2026 23:30:40,Sajid Mortuja,Male,Dhaka International University,3rd year,Family home,Mobile data only,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,4,5,5,2,3
+4/28/2026 23:31:09,Sabbir Ahmed,Male,Jagannath University ,3rd year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,4,5,5,3,4
+4/28/2026 23:36:04,Karnika ,Female,Bangladesh University of Engineering and Technology ,2nd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,3,3,3,3,3
+4/28/2026 23:37:46,Rajkumar Sarker,Male,Dhaka International University,4th year,University hall,Multiple types,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,3,5,3,2,4
+4/28/2026 23:38:39,Rahat Ahmed Miraz ,Male,Dhaka International University ,1st year,University hall,Home broadband/Fiber,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,3,3,3,3,3
+4/28/2026 23:39:17,MD Fakrul Islam Siam,Male,Green university of Bangladesh ,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,1,1,1,1,1
+4/28/2026 23:40:06,Md Eyamen hossan,Male,Dhaka international University ,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,2,2,4,3,3
+4/28/2026 23:46:35,Iqbal Amin Samrat,Male,Jagannath University ,3rd year,University hall,Home broadband/Fiber,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,5,5,1,1,1
+4/28/2026 23:47:00,miskat,Male,Dhaka International Uniersity,3rd year,University hall,Home broadband/Fiber,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,2,1,2,5,4
+4/28/2026 23:49:06,Nadeem,Male,United International University,3rd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,4,2,5,5,5
+4/28/2026 23:49:52,MD Tauhidur Rahman ,Male,Dhaka International University ,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4,4,3,3,4
+4/28/2026 23:56:43,Redwan,Male,Green University ,3rd year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,5,5,5,5,3
+4/29/2026 0:00:49,Majedul islam jihad,Male,Southeast University ,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,5,4,4,5,5
+4/29/2026 0:07:16,Sanjida jarin ,Female,Dhaka International University ,4th year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,1,3,2,2
+4/29/2026 0:09:35,Mahmud Bin Maruf ,Male,Jagannath University ,3rd year,Private hostel/mess,Multiple types,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,5,3,4,4,4
+4/29/2026 0:14:07,Rasel Hasan,Male,Dhaka International University ,3rd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,2,4,5,4,4
+4/29/2026 0:14:43,Nusaiba Jahan Taisara ,Female,Dhaka International University ,3rd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,5,2,2,4,5
+4/29/2026 0:15:33,Apurba,Male,Dhaka International University,4th year,Family home,Home broadband/Fiber,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,1,4,4,3,3
+4/29/2026 0:16:46,Md Arif Rahman ,Male,East West University ,1st year,Family home,Mobile data only,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,5,5,5,5,5
+4/29/2026 0:17:18,Famin,Male,North South University,1st year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,1,1,1,4,1
+4/29/2026 0:17:24,Faliha,Male,North South University,1st year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,1,1,1,4,1
+4/29/2026 0:18:53,Oveeque Mahbub ,Male,Dhaka International University ,2nd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,5,5,5,5,5
+4/29/2026 0:19:21,Rakib,Male,Dhaka International University ,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,3,1,5,5,5
+4/29/2026 0:19:25,Tithi Khatun ,Female,Dhaka International University,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,2,1,2,1
+4/29/2026 0:20:14,Md Arif Rahman ,Male,East West University ,1st year,Family home,Mobile data only,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,5,5,5,5,5
+4/29/2026 0:20:15,sohag sutro dhar,Male,East West University ,1st year,Family home,Mobile data only,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,5,5,5,5,5
+4/29/2026 0:21:35,Fahmed,Male,American International University- Bangladesh (AIUB),2nd year,Family home,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,1,5,2,1,5
+4/29/2026 0:23:01,Shakhawat Hossain Hridoy,Male,United international university ,2nd year,Private hostel/mess,Mobile data only,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,2,2,2,2
+4/29/2026 0:25:59,Md Masum Billah,Male,Dhaka International University ,3rd year,Private hostel/mess,Mobile data only,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,2,2,2,2,2
+4/29/2026 0:26:19,Mamunur Rashid Saimon,Male,Dhaka International University,2nd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,4,4,5,3,4
+4/29/2026 0:29:05,Tahsin Sahed ,Male,United International University ,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,3,3,3,3,3
+4/29/2026 0:30:43,Rahad,Male,North South University ,4th year,Family home,Multiple types,No,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,4,3,2,3,4
+4/29/2026 0:31:28,Naim Sheikh,Male,Dhaka international University ,2nd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,3,2,5,4,3
+4/29/2026 0:33:50, Zubeen,Male,United International University ,1st year,Family home,Multiple types,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,5,3,3,4,5
+4/29/2026 0:34:29,Alif Hossain ,Male,BRAC University ,3rd year,University hall,Home broadband/Fiber,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,3,3,3,3,3
+4/29/2026 0:40:38,Sushmita ,Female,Dhaka International University ,2nd year,Family home,Multiple types,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,5,3,3,3,5
+4/29/2026 2:09:35,Maruf hossen,Male,Dhaka international university ,3rd year,University hall,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,3,4,3,5,5
+4/29/2026 2:32:25,Mahfuz Ahmed Siam,Male,University of Dhaka,2nd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,1,1,1,5,2
+4/29/2026 3:03:03,Arafat,Male,Dhaka international University ,1st year,University hall,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,4,5,5,5
+4/29/2026 4:07:16,Al Noman Robin,Male,Dhaka International University,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,3,3,3,3,3
+4/29/2026 4:54:07,Neheru Datta Antar ,Male,Northern University ,3rd year,Private hostel/mess,Multiple types,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,3,3,3,3
+4/29/2026 7:59:35,Monira,Female,Dhaka International University,3rd year,Family home,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,1,5,1,1,2
+4/29/2026 8:09:23,Shruti ,Female,Dhaka University ,2nd year,University hall,Mobile data only,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,2,3,4,4,3
+4/29/2026 10:51:02,Alamgir Hossain,Male,Bangladesh University of Professionals,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,2,2,5,4,1
+4/29/2026 11:32:14,Onnesha,Female,Bangladesh University of Professionals,3rd year,Private hostel/mess,Mobile data only,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,2,2,2,2,2
+4/29/2026 13:42:36,Md Fardin Faisal Himel ,Male,Daffodil International University ,3rd year,Family home,Multiple types,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,2,1,1,1,5
+4/29/2026 14:37:47,Apurbo Pramanik ,Male,Dhaka International University ,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,2,1,1,2,1
+4/29/2026 18:22:54,Mondira Chakraborty ,Female,Stamford University Bangladesh ,4th year,Family home,Multiple types,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,2,3,3,2,1
+4/30/2026 12:54:24,safat,Male,Dhaka International University,3rd year,Family home,Multiple types,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,3,4,3,4
+4/30/2026 23:59:17,Sweety Biswas ,Female,Dhaka International University,2nd year,University hall,Multiple types,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,3,3,5,4,4
+5/4/2026 0:08:39,Laboni Khatun ,Female,Dhaka International University ,3rd year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,2,4,5,2,4
+5/5/2026 20:31:23,Saihan ,Male,Dhaka international university ,4th year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,2,2,2,2,2
+5/8/2026 1:07:32,Fuad ahmed,Male,Dhaka International Unversity,3rd year,University hall,Multiple types,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,3,4,4,3,5
+5/8/2026 1:10:12,Farhad Ahmed,Male,Dhaka international University,3rd year,University hall,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,3,4,3,4,5
+5/8/2026 20:54:01,Md. Rakib Hossain ,Male,United International University ,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,3,3,2,2,2
+5/8/2026 20:56:01,Md. Arafat Mortuja,Male,Green University ,1st year,University hall,Multiple types,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,4,2,1,5,4
+5/8/2026 20:57:38,Md. Shafayat Hossain ,Male,BRAC University ,3rd year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,1,3,3,5,2
+5/8/2026 20:59:19,Mushfiq Nabil,Male,North South University ,4th year,Private hostel/mess,Multiple types,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,2,2,4,4,3
+5/8/2026 21:01:20,Tareque Rahman ,Male,University of Information Technology and Sciences,3rd year,University hall,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,5,2,3,4,4
+5/8/2026 21:03:08,Md. Faisal Ahmed ,Male,Uttara University ,1st year,Family home,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,4,3,2,3,3
+5/8/2026 21:05:01,Alif Al Obayed,Male,North South University ,4th year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,2,3,2,4
+5/8/2026 21:06:28,Md. Jakariya Hossain ,Male,BRAC University ,3rd year,University hall,Home broadband/Fiber,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,2,4,3,4,1
+5/8/2026 21:08:46,Tamim Iqbal ,Male,Daffodil International University ,2nd year,University hall,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,3,3,3,3,4
+5/8/2026 21:09:57,Md. Abu Esa,Male,Green University ,3rd year,University hall,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,4,3,4,1
+5/8/2026 21:11:08,Md. Maruf Ahmed ,Male,Dhaka University ,1st year,University hall,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,2,3,2,3,4
+5/9/2026 13:49:50,Md. Rakib Hasan,Male,East West University ,2nd year,University hall,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,3,4,3,3,3
+5/9/2026 13:53:38,Md. Karim ullah,Male,jahangirnagar university,3rd year,University hall,University Wi-Fi,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,5,4,1,2,2
+5/9/2026 13:55:01,Sohan Ahmed Rafi,Male,BRAC University ,4th year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,2,1,4,4
+5/9/2026 13:57:26,Md. Nabil Hossain ,Male,Northern University ,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,2,2,5,3,3
+5/9/2026 13:58:55,Tanvir Ahmed ,Male,Green University ,2nd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,3,5,2,4
+5/9/2026 14:00:22,Rifat Hasan Shuvo,Male,United International University ,4th year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,1,3,5,1
+5/9/2026 14:02:51,Ahmed Sami,Male,East West University ,4th year,Private hostel/mess,Multiple types,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,3,2,2,4
+5/9/2026 14:04:19,Adnan Chowdhury,Male,North South University ,2nd year,University hall,Home broadband/Fiber,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,3,4,2,4,5
+5/9/2026 14:05:51,Rakib Hossain,Male,Daffodil International University ,2nd year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,2,2,1,4
+5/9/2026 14:07:30,Tanjim Hasan,Male,Daffodil International University ,4th year,University hall,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,2,3,2,3,2
+5/9/2026 15:30:44,Jannatul Ferdaous,Female,East Weast University,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,2,3,2,2,4
+5/9/2026 15:33:58,Fahim Ahmed,Male,American International University-Bangladesh,1st year,Private hostel/mess,Multiple types,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,3,3,3,1,4
+5/9/2026 15:35:22,Sakib Hasan Rony,Male,Ahsanullah University of Science and Technology,2nd year,Private hostel/mess,Mobile data only,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,4,2,2,5,4
+5/9/2026 15:36:40,Arif Billah,Male,University of Asia Pacific,4th year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,2,1,1,1,4
+5/9/2026 15:38:33,Mashiur Rahman Shuvo,Male,Southeast University,3rd year,Family home,Mobile data only,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,2,1,3,1
+5/9/2026 15:40:07,Md. Abdullah Mahin,Male,State University of Bangladesh,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,1,4,3,1,2
+5/9/2026 15:41:19,Nayeem Hasan,Male,Northern University Bangladesh,2nd year,Family home,Multiple types,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,3,2,2,3,1
+5/9/2026 15:42:49,Sadman Sadik,Male,Stamford University Bangladesh,3rd year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,1,4,3,1,2
+5/9/2026 15:44:12,Md. Arafat Mortuja,Male,IUB,1st year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,1,1,1,2,1
+5/9/2026 15:45:57,Juthi Akter,Female,Ahsanullah University of Science and Technology,1st year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,2,3,3,2,2
+5/9/2026 15:47:12,Musfirat Jannat,Female,University of Asia Pacific ,3rd year,Family home,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,2,2,1,1,1
+5/9/2026 15:48:47,Md. Rasel Ahmed,Male,American International University-Bangladesh,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,2,1,1,2,3
+5/9/2026 15:49:49,Hasan Mahmud,Male,University of Liberal Arts Bangladesh,2nd year,University hall,Home broadband/Fiber,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,1,3,1,2,2
+5/9/2026 15:51:00,Md. Imran khan,Male,North South University ,4th year,University hall,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,2,3,1,2
+5/9/2026 15:52:02,Siyam Ahmed,Male,BRAC University,3rd year,University hall,Home broadband/Fiber,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,1,3,1,2,2
+5/9/2026 16:04:38,Robin Islam,Male,Daffodil International University,4th year,Family home,Mobile data only,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,1,3,2,2,3
+5/9/2026 16:05:44,Raihan Alam,Male,United International University,2nd year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,2,3,2,2,2
+5/9/2026 16:06:47,Tahmid Rahman,Male,Ahsanullah University of Science and Technology ,3rd year,University hall,Home broadband/Fiber,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,2,1,1,2
+5/9/2026 16:07:46,Jisan Ahmed,Male,Jagannath University ,1st year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,1,3,2,1,2
+5/9/2026 16:08:53,Nusrat Jahan,Female,Southeast University,2nd year,University hall,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,3,4,1,2,2
+5/9/2026 16:10:09,Ashik Hasan,Male,Uttara University,1st year,University hall,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,1,4,2,1,5
+5/9/2026 16:11:25,Abu Hasan,Male,Jagannath University ,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,3,2,2,2
+5/9/2026 16:12:37,Nafis Islam ,Male,Green University of Bangladesh ,2nd year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,1,1,2,1,3
+5/9/2026 16:14:08,Fardin Ahmed,Male,Northern University Bangladesh,4th year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4,2,2,2,2
+5/9/2026 16:15:33,Jannatul Fatema,Female,BRAC University,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,1,3,2,2,3
+5/9/2026 16:16:47,Md. Rony Hasan,Male,North South University,3rd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,3,3,1,1,2
+5/9/2026 16:18:40,Emon Hasan,Male,United International University,2nd year,University hall,University Wi-Fi,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,1,2,2,3,4
+5/9/2026 16:20:22,Nuraiya Jahan,Female,American International University Bangladesh,2nd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,2,2,2,1,2
+5/9/2026 16:23:02,Shakil Ahmed,Male,Daffodil International University,2nd year,Family home,Mobile data only,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,1,4,2,2,3
+5/9/2026 16:23:59,Tisha Akter,Female,Green University of Bangladesh,4th year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,4,3,1,3,2
+5/9/2026 16:26:16,Mehedi Hasan,Male,Stamford University Bangladesh,4th year,University hall,Home broadband/Fiber,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,1,2,1,4,2
+5/9/2026 16:28:55,Fahad Rahman,Male,Northern University Bangladesh,2nd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,1,3,2,2,1
+5/9/2026 16:30:19,Riad Islam,Male,Southeast University,2nd year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,2,2,1,4,2
+5/9/2026 16:31:14,Sabbir Ahmed,Male,Daffodil International University,3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,5,2,1,3,3
+5/9/2026 16:32:14,Arnob Hasan,Male,American International University Bangladesh,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,2,3,3,2,4
+5/9/2026 16:33:20,Abid Hasan,Male,BRAC University,1st year,University hall,Home broadband/Fiber,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,1,4,2,1,3
+5/9/2026 16:34:37,Muhit Hasan,Male,United International University,2nd year,University hall,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,Yes,3,3,1,3,2
+5/9/2026 16:35:50,Jaber Hossain																																														,Male,University of Asia Pacific ,3rd year,Private hostel/mess,Multiple types,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,4,3,1,3
+5/10/2026 11:51:13,Md. Jaber Hossain,Male,University of Asia Pacific,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,1,2,1,2,2
+5/10/2026 11:52:34,Zihad Hasan,Male,Ahsanullah University of Science and Technology,1st year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,3,2,1,3,2
+5/10/2026 11:53:33,Mitu Akter,Female,Daffodil International University,2nd year,Family home,Mobile data only,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,2,1,2,3,2
+5/10/2026 11:54:23,Tamim Hasan,Male,Southeast University,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,3,2,1,3,2
+5/10/2026 11:55:31,Farhan Hossain,Male,East West University,3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,1,2,1,3,2
+5/10/2026 11:56:39,Md. Jamil Hossain,Male,Independent University Bangladesh,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,2,4,4,1,4
+5/10/2026 11:57:38,Shanto Ahmed,Male,Ahsanullah University of Science and Technology,2nd year,Family home,Multiple types,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,4,2,1,2
+5/10/2026 11:59:18,Mariyam Akter,Female,East West University,2nd year,Family home,Mobile data only,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,1,4,2,2,3
+5/10/2026 12:01:11,Tasnim Jara,Female,American International University-Bangladesh,3rd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,2,4,2,2,2
+5/10/2026 12:02:23,Labib Hasan,Male,United International University,3rd year,University hall,Home broadband/Fiber,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,1,4,2,2,3
+5/10/2026 19:55:59,Sajid Ahmed,Male,North South University,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,2,4,2,1,3
+5/10/2026 19:56:58,Rakibul Islam,Male,BRAC University,3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,4,2,3,2,2
+5/10/2026 19:57:54,Sumaiya Akter,Female,Jagannath University ,3rd year,Family home,Mobile data only,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,2,2,2,2,3
+5/10/2026 19:59:11,Tauhidur Rahman,Male,East West University,1st year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,4,2,2,3
+5/10/2026 20:00:16,Nahida Jannat,Female,American International University Bangladesh,2nd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,2,4,2,2,2
+5/10/2026 20:01:21,Md. Ranak Ahmed,Male,Ahsanullah University of Science and Technology,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,4,3,2,2
+5/10/2026 20:02:27,Munjurul Islam,Male,United International University ,2nd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,2,4,2,2,2
+5/10/2026 20:03:22,Nafiz Hasan,Male,Bangladesh University of Engineering and Technology ,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,2,4,2,2,3
+5/10/2026 20:04:14,Ratul Islam,Male,University of Asia Pacific,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,2,4,3,2,4
+5/10/2026 20:05:24,Shovon Ahmed,Male,University of Liberal Arts Bangladesh,3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,2,4,2,2,3
+5/10/2026 20:06:22,Shafin Rahman,Male,Southeast University ,2nd year,Family home,Mobile data only,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,1,4,3,2,3
+5/10/2026 20:07:24,Rayhan Hasan,Male,Bangladesh University of Business and Technology,2nd year,Family home,Multiple types,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,1,3,3,2,2
+5/10/2026 20:08:41,Sadiya Jannat,Female,Green University of Bangladesh,3rd year,Family home,Multiple types,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,2,4,3,2,3
+5/10/2026 20:09:42,Asif Hossain,Male,Northern University Bangladesh,3rd year,University hall,University Wi-Fi,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,2,4,2,3,1
+5/10/2026 20:10:47,Tanzil Ahmed,Male,Uttara University,3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,2,4,3,2,3
+5/10/2026 20:12:29,Sharmin Akter,Female,North South University,3rd year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,4,2,2,1
+5/10/2026 20:13:38,Sojib Hasan,Male,BRAC University,2nd year,University hall,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,1,4,2,1,2
+5/10/2026 20:14:47,Soniya Akter,Female,Independent University Bangladesh ,3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,4,2,2,2
+5/10/2026 20:15:58,Nadia Jannat,Female,East West University ,2nd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,1,4,2,2,3
+5/10/2026 20:17:12,Noman Hasan,Male,American International University Bangladesh,3rd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,2,4,2,2,3
+5/10/2026 20:20:14,Fardin Ahmed,Male,Ahsanullah University of Science and Technology,1st year,University hall,University Wi-Fi,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,1,4,2,2,3
+5/10/2026 20:21:04,Jubayer Rahman,Male,United International University,2nd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,1,4,3,2,3
+5/10/2026 20:22:01,Brishti Akter,Female,Daffodil International University,2nd year,Family home,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,2,4,3,2,3
+5/10/2026 20:23:18,Nusrat Jahan,Female,International University of Business Agriculture and Technology,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,2,4,4,3,1
+5/10/2026 20:24:20,Robiul Islam,Male,Southeast University,3rd year,University hall,Multiple types,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,1,4,3,2,3
+5/10/2026 20:25:11,Farabi Rahman,Male,Bangladesh University of Business and Technology ,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,1,3,2,2,4
+5/10/2026 20:26:17,Sajid Hasan,Male,Green University of Bangladesh,2nd year,University hall,Multiple types,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,4,3,2,3
+5/10/2026 20:27:28,Redwan Hasan,Male,Northern University Bangladesh,4th year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,1,4,2,2,3
+5/10/2026 20:28:35,Abrar Fahad,Male,Uttara University,2nd year,University hall,Home broadband/Fiber,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,4,3,2,1
+5/10/2026 20:29:28,Sohanur Rahman,Male,North South University,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,1,3,3,2,2
+5/10/2026 21:20:54,Foysal Ahmed,Male,Jagannath University ,2nd year,Family home,Multiple types,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,1,4,3,2,2
+5/10/2026 21:22:04,Ashraful Islam,Male,BRAC University,2nd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,1,3,2,2,1
+5/10/2026 21:23:08,Tania Akter,Female,Independent University Bangladesh,3rd year,Family home,Mobile data only,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,1,3,2,1,3
+5/10/2026 21:24:03,Rifat Ahmed,Male,East West University,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,1,3,2,2,3
+5/10/2026 21:25:04,Mahadi Hasan,Male,American International University Bangladesh ,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,2,4,2,2,1
+5/10/2026 21:26:04,Nahid Hasan,Male,Ahsanullah University of Science and Technology,1st year,University hall,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,1,3,2,2,3
+5/10/2026 21:27:05,Sajib Hasan,Male,United International University,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,2,3,2,1,2
+5/10/2026 21:28:35,Maruf Ahmed,Male,Daffodil International University,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,1,3,2,2,1
+5/10/2026 21:30:20,Tarek Rahman,Male,Jagannath University ,1st year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,2,4,2,1,2
+5/10/2026 21:31:41,Muktadirul Hasan,Male,Southeast University,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,1,3,2,1,2
+5/10/2026 21:32:51,Faruk Hossain,Male,Bangladesh University of Business and Technology,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,3,2,2,3
+5/10/2026 21:34:14,Fuad Munir,Male,Green University of Bangladesh,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,1,3,2,1,2
+5/10/2026 21:35:41,Esrat Jahan,Female,Northern University Bangladesh,2nd year,University hall,University Wi-Fi,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,3,2,2,1
+5/10/2026 21:37:02,Rohan Hasan,Male,Uttara University,2nd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,2,3,4,2,2
+5/10/2026 21:38:03,Amir Hamza,Male,Uttara University,2nd year,University hall,Home broadband/Fiber,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,1,3,2,2,1
+5/10/2026 21:43:21,Nahid Islam,Male,North South University,1st year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,3,2,1,2
+5/10/2026 21:44:20,Fahim Ahmed,Male,BRAC University,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,1,3,2,2,1
+5/10/2026 21:46:14,Tushar Hasan,Male,Independent University Bangladesh,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,2,3,2,1,2
+5/10/2026 21:49:38,Musfuq Farhan,Male,East West University,3rd year,University hall,Home broadband/Fiber,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,1,3,2,1,2
+5/10/2026 21:50:46,Md. Morsali Hasan,Male,American International University Bangladesh,2nd year,Private hostel/mess,Multiple types,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,1,3,2,1,2
+5/12/2026 18:34:07,Soniya Jannat,Female,North South University,3rd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,1,3,2,2,3
+5/12/2026 18:35:20,Sadiya Jannat,Female,BRAC University,2nd year,Private hostel/mess,Multiple types,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,3,2,1,3
+5/12/2026 18:36:20,Rima Akter,Female,Independent University Bangladesh,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,1,3,2,1,2
+5/12/2026 18:37:25,Md. Sayed Ahmed,Male,East West University,4th year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,1,3,2,2,2
+5/12/2026 18:40:28,Junayed Hossain,Male,American International University Bangladesh ,1st year,Family home,Mobile data only,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,1,3,2,1,2
+5/12/2026 18:41:18,Arman Rahman,Male,Ahsanullah University of Science and Technology,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,1,4,3,5,2
+5/12/2026 18:42:21,Rabbi Islam,Male,United International University,3rd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,3,2,1,2
+5/12/2026 18:43:13,Tanmoy Ahmed,Male,Daffodil International University,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,4,2,2,3
+5/12/2026 18:44:56,Miftahul Jannat Riya ,Female,University of Asia Pacific,3rd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,1,3,2,1,2
+5/12/2026 18:46:22,Fahad Hasan,Male,Southeast University,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,1,3,2,1,2
+5/12/2026 18:47:29,Imtiaz Rahman,Male,Bangladesh University of Business and Technology,4th year,University hall,University Wi-Fi,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,1,3,2,1,3
+5/12/2026 18:48:22,Sifat Ahmed,Male,Green University of Bangladesh,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,1,3,2,1,2
+5/12/2026 18:49:40,Farhana Akter ,Female,Northern University Bangladesh,3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,1,3,2,1,3
+5/12/2026 18:50:34,Arif Hasan,Male,Uttara University,3rd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,3,2,1,3
+5/12/2026 18:51:44,Md. Morsalin Ahmed,Male,Uttara University,2nd year,University hall,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,1,4,2,2,2
+5/12/2026 18:52:58,Abu Hasan,Male,North South University,3rd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,1,3,2,1,2
+5/12/2026 18:54:37,Yusuf Ali ,Male,BRAC University,2nd year,Private hostel/mess,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,1,4,3,2,1
+5/12/2026 18:57:16,Tahsif Ahmed,Male,Independent University Bangladesh,3rd year,Family home,Multiple types,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,3,2,2,1
+5/12/2026 18:58:17,Abu Horaira,Male,East West University ,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,1,4,2,2,2
+5/12/2026 18:59:24,Farhan Ahmed,Male,American International University Bangladesh ,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,4,2,2,2
+5/12/2026 19:01:17,Fakrul Ahmed,Male,Ahsanullah University of Science and Technology,2nd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,1,3,2,1,2
+5/12/2026 19:02:38,Monira Jannat,Female,United International University,2nd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,4,2,1,2
+5/12/2026 19:03:55,Nusrat Jahan,Female,Daffodil International University ,4th year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,1,4,3,2,2
+5/12/2026 19:04:45,Ashraful Rahman,Male,University of Asia Pacific ,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,1,3,2,2,2
+5/12/2026 19:05:47,Sazzad Hasan,Male,Southeast University,3rd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,1,3,2,1,2
+5/12/2026 19:07:37,Shihab Ahmed,Male,Green University of Bangladesh,3rd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,3,2,2,1
+5/12/2026 19:08:43,Raihan Alom,Male,Northern University Bangladesh,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,4,2,1,2
+5/12/2026 19:10:14,Mahin Hasan,Male,Uttara University,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,1,4,3,2,2
+5/12/2026 19:11:14,Jubayer Rahman,Male,Northern University Bangladesh,3rd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,1,4,3,3,2
+5/12/2026 19:12:24,Mithila Jannat,Female,Green University of Bangladesh,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,3,3,2,1
+5/12/2026 19:13:39,Junayed Hasan,Male,Southeast University,4th year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,1,4,3,2,1
+5/12/2026 19:15:24,Shamima Akter,Female,University of Asia Pacific,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,1,4,2,1,2
+5/12/2026 19:16:55,Lamia Akter,Female,Daffodil International University,3rd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,1,3,2,1,2
+5/12/2026 19:17:54,Sohan Ahmed,Male,United International University,3rd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,1,3,2,1,2
+5/12/2026 19:18:52,Yamin Hasan,Male,Ahsanullah University of Science and Technology,4th year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,1,3,2,1,2
+5/12/2026 19:20:03,Muntasir Ahmed,Male,American International University Bangladesh,3rd year,Private hostel/mess,Multiple types,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,4,3,1,2
+5/12/2026 19:20:55,Fahim Ahmed,Male,East West University,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,1,3,2,1,2
+5/12/2026 19:21:49,Rakib Hasan,Male,Independent University Bangladesh,2nd year,University hall,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,1,4,3,2,1
+5/12/2026 19:22:52,Robiul Islam,Male,BRAC University,2nd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,4,3,2,2
+5/12/2026 19:24:18,Sadik Ahmed,Male,North South University,3rd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,4,2,2,2
+5/12/2026 19:25:39,Md. Nayan Hossain,Male,BRAC University ,3rd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,1,4,3,2,1
+5/12/2026 19:26:42,Ahsan Habib,Male,Independent University Bangladesh ,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,4,2,2,2
+5/12/2026 19:27:37,Nazmun Nahar,Female,East West University ,4th year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,3,2,1,2
+5/12/2026 19:28:32,Shahrima Akter,Female,American International University Bangladesh,4th year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,4,2,1,3
+5/12/2026 19:29:29,Rakibul Rahman,Male,Ahsanullah University of Science and Technology ,2nd year,Family home,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,4,3,2,1
+5/12/2026 19:32:00,Alamin Hasan,Male,United International University,1st year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,3,2,1,1
+5/12/2026 19:32:58,Mahmud Ahmed,Male,Daffodil International University,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,1,4,2,1,2
+5/12/2026 19:33:53,Ridoy Ahmed,Male,University of Asia Pacific ,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,3,2,1,2
+5/12/2026 19:34:41,Sohan Rahman,Male,Southeast University,4th year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,1,3,2,1,2
+5/12/2026 19:35:53,Nusrat Jahan Niha,Female,Southeast University,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,3,2,1,2
+5/16/2026 2:04:33,Arif Billah,Male,jagannath university ,2nd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,1,3,2,2,2
+5/16/2026 2:06:15,Md. Shipon Ahmed,Male,University of Dhaka,2nd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,2,3,2,1,1
+5/16/2026 2:07:19,Shafayet Hossain ,Male,Bangladesh University of Professionals,2nd year,Family home,Multiple types,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,3,2,2,3,1
+5/16/2026 2:08:32,Md. Shakil Ahmed,Male,Bangladesh University of Professionals,1st year,Family home,Multiple types,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,1,1,4,2
+5/16/2026 2:09:59,Ashraful Hasan ,Male,jagannath university ,4th year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,2,2,1,2
+5/16/2026 2:11:37,Md. Rafik Hasan,Male,East West University,2nd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,2,1,3,1
+5/16/2026 2:13:12,Tamim Iqbal ,Male,Green University of Bangladesh,4th year,University hall,Multiple types,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,1,1,1,1
+5/16/2026 2:14:14,Sharmin Akter,Female,BRAC University,2nd year,Family home,Multiple types,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,2,1,1,1,1
+5/16/2026 2:15:19,Junayed Hossain ,Male,National University,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,1,1,1,2
+5/16/2026 2:16:32,Nusrat Jahan Tisha,Female,National University,2nd year,Family home,Multiple types,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,2,3,1,1,1
+5/16/2026 2:24:50,Afsana Mimi,Female,Green University of Bangladesh,3rd year,Family home,Multiple types,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,2,1,3,2
+5/16/2026 2:25:55,Md. Nazmus Sakib,Male,University of Dhaka,4th year,University hall,Home broadband/Fiber,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,2,1,1,2,3
+5/16/2026 2:27:21,Md. Arafat Mortuja,Male,Ahsanullah University of Science and Technology,4th year,University hall,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,2,1,2,1,3
+5/16/2026 2:28:09,Md. Faruk Ahmed ,Male,East West University,3rd year,University hall,Home broadband/Fiber,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,1,2,3,1
+5/16/2026 2:29:13,Labiba Akter,Female,jagannath university ,3rd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,2,2,1,2,2
+5/16/2026 2:30:18,Jahid Hassan ,Male,jagannath university ,3rd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,2,1,2,1,3
+5/16/2026 2:31:17,Musfirat Jannat Riya,Female,Bangladesh University of Engineering and Technology ,3rd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,2,1,1,1
+5/16/2026 2:32:04,Atikul Islam ,Male,Bangladesh University of Engineering and Technology ,2nd year,University hall,Mobile data only,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,3,2,2,1
+5/16/2026 2:32:05,Arian Rahman,Male,Jahangirnagar University,2nd year,University hall,Multiple types,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,2,4,4,3,2
+5/16/2026 2:33:20,Jannatul Mawa,Female,Dhaka University ,3rd year,Family home,Multiple types,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,2,1,1,1
+5/16/2026 2:34:17,Resma Akter,Female,East West University,3rd year,Family home,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,2,2,1,1,1
+5/16/2026 2:35:32,Mahira Jannat ,Female,East West University,2nd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,2,1,1,1
+5/16/2026 2:37:02,Nabil Hossain,Male,North South University,3rd year,Family home,Multiple types,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,No,Yes,No,4,5,4,4,5
+5/16/2026 2:39:25,Tanvir Ahmed,Male,American International University Bangladesh,4th year,Family home,Mobile data only,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,2,2,2,2,2
+5/16/2026 2:47:20,Md. Rasel Ahmed,Male,jagannath university ,3rd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,1,1,1,1
+5/16/2026 2:48:32,Rahuma Jannat Nila,Female,East West University,1st year,Family home,Multiple types,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,1,1,1,1
+5/16/2026 2:49:21,Maruf Ahmed ,Male,jagannath university ,1st year,University hall,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,1,2,2,1,1
+5/16/2026 2:50:30,Md. Niloy Ahmed ,Male,Bangladesh University of Engineering and Technology ,4th year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,1,1,2,2
+5/16/2026 19:07:57,Jihan Alam,Male,jagannath university,3rd year,University hall,Mobile data only,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,2,1,3,1
+5/16/2026 19:09:14,Md. Miraz Ahmed ,Male,Dhaka University ,2nd year,University hall,Multiple types,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,2,1,1,2,1
+5/16/2026 19:10:04,Md. Jihad Hasan,Male,jagannath university,1st year,Family home,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,1,1,2,1,3
+5/16/2026 19:11:38,Nowrin Afroz,Female,Dhaka University ,4th year,Family home,Multiple types,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,1,1,2,1,1
+5/16/2026 19:12:26,Md. Shovon Ahmed ,Male,jagannath university,3rd year,University hall,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1,1,3,1,1
+5/16/2026 19:13:33,Md. Sirat Hossain ,Male,Dhaka University ,3rd year,University hall,Mobile data only,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,1,2,2,1,2
+5/16/2026 19:14:39,Nusrat Jahan sumi,Female,jagannath university,3rd year,University hall,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,1,1,2,2,2
+5/16/2026 19:15:54,Musfiqur Rahim,Male,Dhaka University ,2nd year,University hall,Multiple types,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,1,1,2,1
+5/16/2026 19:17:45,Soumik Hossain ,Male,jagannath university,4th year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,1,1,2,2,1
+5/16/2026 19:18:47,Md. Ripon Ahmed ,Male,Dhaka University ,2nd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,1,2,1,1,2
+5/17/2026 23:53:13,Test Student,,Test University,1st year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,3,3,3,3
+5/11/2026 10:00:11,Mahiya khanom,Female,University of Dhaka,2nd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 10:02:08,Sadia Rahman,Female,Jagannath University,3rd year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,4,3,2,5
+5/11/2026 10:04:27,Mehedi Hasan,Male,Bangladesh University of Engineering and Technology (BUET),4th year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,3,2,2,3,4
+5/11/2026 10:06:39,Tasnia Islam,Female,Bangladesh University of Professionals (BUP),2nd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,2,4,4,3,5
+5/11/2026 10:08:51,Rakib Ahmed,Male,Sher-e-Bangla Agricultural University,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,3,3,2,4
+5/11/2026 10:11:04,MD Akash,Male,Bangladesh University of Textiles (BUTEX),1st year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,2,5
+5/11/2026 10:13:18,Mahmudul Hasan,Male,University of Dhaka,4th year,Family home,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,4,4,3,5
+5/11/2026 10:15:42,Farzana Akter,Female,Bangladesh Open University,3rd year,Family home,Mobile data only,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,2,3,3,2,4
+5/11/2026 10:18:07,Saiful Islam,Male,Jagannath University,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 10:20:26,Mim Akter,Female,University of Dhaka,1st year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,3,2,2,2,5
+5/11/2026 10:22:51,Adiba Jahan,Female,Bangladesh University of Professionals (BUP),3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,2,4,3,3,5
+5/11/2026 10:25:10,Sumaiya Islam,Female,Sher-e-Bangla Agricultural University,2nd year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,4,3,2,4
+5/11/2026 10:27:39,Arman Hossain,Male,Bangladesh University of Engineering and Technology (BUET),1st year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,4,2,2,3,4
+5/11/2026 10:30:01,Hasan Mahmud,Male,Bangladesh University of Textiles (BUTEX),4th year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,4,4,3,5
+5/11/2026 10:32:18,Jannatul Ferdous,Female,University of Dhaka,3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 10:34:44,Shakil Ahmed,Male,Jagannath University,2nd year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,4,3,2,5
+5/11/2026 10:37:06,Imran Hossain,Male,Bangladesh Open University,4th year,Private hostel/mess,Mobile data only,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,4,3,4,4,3
+5/11/2026 10:39:31,Raisa Islam,Female,Bangladesh University of Professionals (BUP),1st year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,2,5
+5/11/2026 10:41:55,Tanvir Rahman,Male,Sher-e-Bangla Agricultural University,2nd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,3,4,4,3,5
+5/11/2026 10:44:17,Md  Akash ,Male,University of Dhaka,3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,4,3,2,4
+5/11/2026 10:46:32,Fahim Hasan,Male,Bangladesh University of Engineering and Technology (BUET),3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 10:48:41,Nabila Sultana,Female,Jagannath University,4th year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,4,3,2,5
+5/11/2026 10:50:55,Sharmin Sultana,Female,University of Dhaka,1st year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4,2,2,3,4
+5/11/2026 10:53:14,Tamanna Islam,Female,Sher-e-Bangla Agricultural University,2nd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,2,4,4,3,5
+5/11/2026 10:55:29,Tanisha Tabasum,Female,Bangladesh University of Professionals (BUP),4th year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,3,4,3,3,5
+5/11/2026 10:57:47,Rima Akter,Female,Bangladesh University of Textiles (BUTEX),3rd year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,3,3,2,4
+5/11/2026 11:00:02,Md. Robin,Male,Jagannath University,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 11:02:21,Rasfir Rifat,Male,University of Dhaka,3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,2,4,2,2,5
+5/11/2026 11:04:43,Rahat Karim,Male,Bangladesh Open University,4th year,Family home,Mobile data only,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,4,3,4,4,3
+5/11/2026 11:06:58,Mahjabin Rahman,Female,Bangladesh University of Professionals (BUP),1st year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,2,5
+5/11/2026 11:09:17,Afsana Mimi,Female,Sher-e-Bangla Agricultural University,2nd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,4,4,3,5
+5/11/2026 11:11:35,Nowrin Akter,Female,Bangladesh University of Engineering and Technology (BUET),2nd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,3,2,3,4
+5/11/2026 11:13:49,Hasibul Islam,Male,University of Dhaka,3rd year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,4,3,2,5
+5/11/2026 11:16:10,Yeasmin Akter,Female,Jagannath University,2nd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 11:18:24,Easir Arafat,Male,Bangladesh University of Textiles (BUTEX),4th year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,3,4,3,3,5
+5/11/2026 11:20:46,Adnan Hossain,Male,Bangladesh Open University,3rd year,Family home,Mobile data only,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,2,4,3,2,4
+5/11/2026 11:23:02,Mahfuz Rahman,Male,Bangladesh University of Professionals (BUP),1st year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,4,2,2,3,4
+5/11/2026 11:25:19,Md Asik,Male,Sher-e-Bangla Agricultural University,4th year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,4,4,3,5
+5/11/2026 11:27:37,Rifat Ahmed,Male,University of Dhaka,2nd year,Family home,Multiple types,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,3,3,2,4
+5/11/2026 11:29:56,Sabrina Yasmin,Female,Bangladesh University of Engineering and Technology (BUET),3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 11:32:18,Sanjida Islam,Female,University of Dhaka,4th year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,2,2,3,4
+5/11/2026 11:34:42,Nafisa Rahman,Female,Jagannath University,2nd year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,4,3,2,5
+5/11/2026 11:36:59,Siam Ahmed,Male,Bangladesh University of Engineering and Technology (BUET),3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,4,2,2,3,4
+5/11/2026 11:39:16,Maria Sultana,Female,Bangladesh University of Professionals (BUP),1st year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,2,5
+5/11/2026 11:41:31,Arafat Islam,Male,Sher-e-Bangla Agricultural University,2nd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,4,4,3,5
+5/11/2026 11:43:57,Fuad Karim,Male,Bangladesh University of Textiles (BUTEX),4th year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,3,3,2,4
+5/11/2026 11:46:22,Rahat Hossain,Male,University of Dhaka,1st year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4,2,2,3,4
+5/11/2026 11:48:45,Sharmeen Jahan,Female,Jagannath University,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,4,3,3,5
+5/11/2026 11:51:08,Sanjida Akter,Female,Bangladesh Open University,2nd year,Family home,Mobile data only,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,3,4,3,2,4
+5/11/2026 11:53:27,Tasnim Islam,Female,University of Dhaka,4th year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,5
+5/11/2026 11:55:49,Mahin Chowdhury,Male,Bangladesh University of Professionals (BUP),3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,2,4,4,3,5
+5/11/2026 11:58:14,Ishrat Jahan,Female,Sher-e-Bangla Agricultural University,2nd year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,4,3,2,4
+5/11/2026 12:00:39,Taniya Akter,Female,Bangladesh University of Engineering and Technology (BUET),1st year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,4,2,2,3,4
+5/11/2026 12:03:03,Anika Rahman,Female,Bangladesh University of Textiles (BUTEX),3rd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,4,4,3,5
+5/11/2026 12:05:26,Tanvir Hasan,Male,Jagannath University,2nd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 12:07:52,Sabbir Hossain,Male,Bangladesh Open University,4th year,Family home,Mobile data only,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,2,3,3,2,4
+5/11/2026 12:10:15,Nahid Rahman,Male,University of Dhaka,3rd year,Family home,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,3,4,4,3,5
+5/11/2026 12:12:41,Showan Shorif,Male,Bangladesh University of Professionals (BUP),1st year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,2,5
+5/11/2026 12:15:06,Rubel Ahmed,Male,Sher-e-Bangla Agricultural University,4th year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,2,4,3,3,5
+5/11/2026 12:17:33,Faria Sultana,Female,University of Dhaka,2nd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 12:20:11,Raihan Kabir,Male,Bangladesh University of Engineering and Technology (BUET),2nd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 12:22:37,Samia Islam,Female,Jagannath University,4th year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,4,3,2,5
+5/11/2026 12:24:58,Mahfuza Islam,Female,University of Dhaka,3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4,2,2,3,4
+5/11/2026 12:27:26,Anjum Akter,Female,Bangladesh University of Professionals (BUP),2nd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,2,4,4,3,5
+5/11/2026 12:29:47,Md Tamim,Male,Sher-e-Bangla Agricultural University,1st year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,3,3,2,4
+5/11/2026 12:32:15,Touhid Hasan,Male,Bangladesh University of Textiles (BUTEX),3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,2,5
+5/11/2026 12:34:41,Sohan Hossain,Male,University of Dhaka,4th year,Family home,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,4,4,3,5
+5/11/2026 12:37:03,Fuhad Khan,Male,Bangladesh Open University,2nd year,Family home,Mobile data only,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,2,3,3,2,4
+5/11/2026 12:39:29,Riyad Ahmed,Male,Jagannath University,1st year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 12:41:56,Tania Sarker,Female,University of Dhaka,2nd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,3,2,2,2,5
+5/11/2026 12:44:18,Fahad Rahman,Male,Bangladesh University of Professionals (BUP),4th year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,2,4,3,3,5
+5/11/2026 12:46:45,Nusrat Tabassum,Female,Sher-e-Bangla Agricultural University,3rd year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,4,3,2,4
+5/11/2026 12:49:08,Nazifa Sultana,Female,Bangladesh University of Engineering and Technology (BUET),2nd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,4,2,2,3,4
+5/11/2026 12:51:36,Sanjana Akter,Female,Bangladesh University of Textiles (BUTEX),1st year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,4,4,3,5
+5/11/2026 12:54:02,Nafisa Hossain,Female,Jagannath University,3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 12:56:27,Ishrat Jahan,Female,Bangladesh Open University,4th year,Family home,Mobile data only,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,2,3,3,2,4
+5/11/2026 12:58:54,Asif Mahmud,Male,University of Dhaka,2nd year,Family home,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,3,4,4,3,5
+5/11/2026 13:01:16,Farbaz Yamin,Male,Bangladesh University of Professionals (BUP),3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,2,5
+5/11/2026 13:03:39,Mahadi Hasan,Male,Sher-e-Bangla Agricultural University,4th year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,2,4,3,3,5
+5/11/2026 13:06:05,Sadia Noor,Female,University of Dhaka,1st year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 13:08:22,Nazifa Sultana,Female,Bangladesh University of Engineering and Technology (BUET),3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,4,2,3,4
+5/11/2026 13:10:41,Mst. Sumaiya Akter,Female,Jagannath University,2nd year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,4,3,2,5
+5/11/2026 13:12:58,Sanjida Hossain,Female,University of Dhaka,4th year,University hall,Multiple types,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4,3,2,3,4
+5/11/2026 13:15:14,Tasnia Rahman,Female,Bangladesh University of Professionals (BUP),1st year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,2,4,4,3,5
+5/11/2026 13:17:29,Faisal Ahmed,Male,Sher-e-Bangla Agricultural University,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,3,3,2,4
+5/11/2026 13:19:45,Rukaiya Sultana,Female,Bangladesh University of Textiles (BUTEX),3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,2,5
+5/11/2026 13:22:03,Imtiaz Hasan,Male,University of Dhaka,1st year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,4,4,3,5
+5/11/2026 13:24:19,Md Shorif ,Male,Bangladesh Open University,4th year,Family home,Mobile data only,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,2,3,3,2,4
+5/11/2026 13:26:34,Nayeem Islam,Male,Jagannath University,2nd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 13:28:57,Shamima Noor,Female,University of Dhaka,3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,3,2,2,2,5
+5/11/2026 13:31:15,Afifa  jannat,Female,Bangladesh University of Professionals (BUP),4th year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,2,4,3,3,5
+5/11/2026 13:33:28,Najmun Nahar,Female,Sher-e-Bangla Agricultural University,2nd year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,4,3,2,4
+5/11/2026 13:35:44,Shahriar Kabir,Male,Bangladesh University of Engineering and Technology (BUET),3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,4,2,2,3,4
+5/11/2026 13:38:06,Mahmuda Islam,Female,Bangladesh University of Textiles (BUTEX),1st year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,4,4,3,5
+5/11/2026 13:40:22,Rifat Hasan,Male,Jagannath University,3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 13:42:41,Anik Rahaman,Male,Bangladesh Open University,2nd year,Family home,Mobile data only,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,2,3,3,2,4
+5/11/2026 13:45:03,Tanvir Ahmed,Male,University of Dhaka,4th year,Family home,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,3,4,4,3,5
+5/11/2026 13:47:20,Sabrina Akter,Female,Bangladesh University of Professionals (BUP),2nd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,2,5
+5/11/2026 13:49:39,Sohanur Rahman,Male,Sher-e-Bangla Agricultural University,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,2,4,3,3,5
+5/11/2026 13:52:01,Farhana Yasmin,Female,University of Dhaka,1st year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 13:54:18,Md. Riad Hasan,Male,Bangladesh University of Engineering and Technology (BUET),2nd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 13:56:37,Sahidur Rahman,Male,Jagannath University,4th year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,4,3,2,5
+5/11/2026 13:58:54,Sakib Hossain,Male,University of Dhaka,3rd year,University hall,Multiple types,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4,2,2,3,4
+5/11/2026 14:01:12,Nusrat Tamanna,Female,Bangladesh University of Professionals (BUP),1st year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,2,4,4,3,5
+5/11/2026 14:03:28,Fahima Khatun,Female,Sher-e-Bangla Agricultural University,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,3,3,2,4
+5/11/2026 14:05:46,Sumaiya Rahman,Female,Bangladesh University of Textiles (BUTEX),3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,2,5
+5/11/2026 14:08:02,Mahima Islam,Female,University of Dhaka,4th year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,4,4,3,5
+5/11/2026 14:10:19,Shamima Akter,Female,Bangladesh Open University,2nd year,Family home,Mobile data only,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,2,3,3,2,4
+5/11/2026 14:12:34,Tanvir Kabir,Male,Jagannath University,1st year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 14:14:53,Abir Ahamed,Male,University of Dhaka,2nd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,3,2,2,2,5
+5/11/2026 14:17:11,Rakibul Hasan,Male,Bangladesh University of Professionals (BUP),4th year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,2,4,3,3,5
+5/11/2026 14:19:26,Sadia Noor,Female,Sher-e-Bangla Agricultural University,3rd year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,4,3,2,4
+5/11/2026 14:21:43,Sadiya Akter,Female,Bangladesh University of Engineering and Technology (BUET),1st year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,4,2,2,3,4
+5/11/2026 14:24:01,Anika Sultana,Female,Bangladesh University of Textiles (BUTEX),4th year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,4,4,3,5
+5/11/2026 14:26:18,Tanisha Eva,Female,Jagannath University,2nd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 14:28:37,Sharmin Akter,Female,Bangladesh Open University,3rd year,Family home,Mobile data only,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,2,3,3,2,4
+5/11/2026 14:30:54,Saiful Islam,Male,University of Dhaka,4th year,Family home,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,3,4,4,3,5
+5/11/2026 14:33:09,Shahadat Hossain,Male,Bangladesh University of Professionals (BUP),2nd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,2,5
+5/11/2026 14:35:31,Rubel Ahmed,Male,Sher-e-Bangla Agricultural University,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,2,4,3,3,5
+5/11/2026 14:37:46,Farhan Khan,Male,University of Dhaka,1st year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 14:40:08,Nahid Islam,Male,University of Dhaka,2nd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 14:42:26,Sajida Hossen,Female,Jagannath University,3rd year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,4,3,2,5
+5/11/2026 14:44:39,Asif Hasan,Male,Bangladesh University of Engineering and Technology (BUET),4th year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,4,2,2,3,4
+5/11/2026 14:47:01,Raisa Akter,Female,Bangladesh University of Professionals (BUP),2nd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,2,4,4,3,5
+5/11/2026 14:49:18,Sanjida Sultana,Female,Sher-e-Bangla Agricultural University,1st year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,3,3,2,4
+5/11/2026 14:51:42,Mahmuda Rahman,Female,Bangladesh University of Textiles (BUTEX),3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,2,5
+5/11/2026 14:53:58,Sakib Mahmud,Male,University of Dhaka,4th year,Family home,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,4,4,3,5
+5/11/2026 14:56:14,Asif Mahmud,Male,Bangladesh Open University,2nd year,Family home,Mobile data only,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,2,3,3,2,4
+5/11/2026 14:58:31,Rashed Hossain,Male,Jagannath University,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 15:00:46,Sabrina Islam,Female,University of Dhaka,1st year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,3,2,2,2,5
+5/11/2026 15:03:03,Tanvir Ahmed,Male,Bangladesh University of Professionals (BUP),4th year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,2,4,3,3,5
+5/11/2026 15:05:19,Sharmin Akter,Female,Sher-e-Bangla Agricultural University,2nd year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,4,3,2,4
+5/11/2026 15:07:37,Mahmuda akter,Female,Bangladesh University of Engineering and Technology (BUET),1st year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,4,2,2,3,4
+5/11/2026 15:09:58,Jannatul Ferdous,Female,Bangladesh University of Textiles (BUTEX),4th year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,4,4,3,5
+5/11/2026 15:12:17,Rakib Hasan,Male,Jagannath University,2nd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 15:14:35,Mst. Anika Islam,Female,Bangladesh Open University,3rd year,Family home,Mobile data only,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,2,3,3,2,4
+5/11/2026 15:16:52,Shuvorna Khanom,Female,University of Dhaka,3rd year,Family home,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,3,4,4,3,5
+5/11/2026 15:19:08,Farzana Sultana,Female,Bangladesh University of Professionals (BUP),1st year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,2,5
+5/11/2026 15:21:26,Mahfuzur Rahman,Male,Sher-e-Bangla Agricultural University,4th year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,2,4,3,3,5
+5/11/2026 15:23:44,Rasfir Rifat,Male,University of Dhaka,2nd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 15:26:07,Sakib Chowdhury,Male,Bangladesh University of Engineering and Technology (BUET),3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 15:28:21,Tania Rahman,Female,Jagannath University,2nd year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,4,3,2,5
+5/11/2026 15:30:39,Sumaiya Jahan,Female,University of Dhaka,4th year,University hall,Multiple types,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4,2,2,3,4
+5/11/2026 15:32:58,Maliha Islam,Female,Bangladesh University of Professionals (BUP),1st year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,2,4,4,3,5
+5/11/2026 15:35:14,Saima Rahman,Female,Sher-e-Bangla Agricultural University,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,3,3,2,4
+5/11/2026 15:37:33,Farhana Akter,Female,Bangladesh University of Textiles (BUTEX),3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,2,5
+5/11/2026 15:39:52,Farhana Yeasmin,Female,University of Dhaka,2nd year,Family home,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,4,4,3,5
+5/11/2026 15:42:09,Rimsha Jahan,Female,Bangladesh Open University,4th year,Family home,Mobile data only,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,2,3,3,2,4
+5/11/2026 15:44:26,Foysal Ahmed,Male,Jagannath University,1st year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 15:46:44,Tahomidur Rahaman,Male,University of Dhaka,3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,3,2,2,2,5
+5/11/2026 15:49:03,Sumaiya Jahan,Female,Bangladesh University of Professionals (BUP),4th year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,2,4,3,3,5
+5/11/2026 15:51:19,Sadia Noor,Female,Sher-e-Bangla Agricultural University,2nd year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,4,3,2,4
+5/11/2026 15:53:38,Mahmuda akter,Female,Bangladesh University of Engineering and Technology (BUET),3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,4,2,2,3,4
+5/11/2026 15:55:57,Sanjida Akter,Female,Bangladesh University of Textiles (BUTEX),1st year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,4,4,3,5
+5/11/2026 15:58:13,Tanvir Hossain,Male,Jagannath University,3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 16:00:31,Sharmin Sultana,Female,Bangladesh Open University,2nd year,Family home,Mobile data only,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,2,3,3,2,4
+5/11/2026 16:02:48,Rakibul Islam,Male,University of Dhaka,4th year,Family home,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,3,4,4,3,5
+5/11/2026 16:05:07,Tahosin Akib,Male,Bangladesh University of Professionals (BUP),2nd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,2,5
+5/11/2026 16:07:26,Saif Hasan,Male,Sher-e-Bangla Agricultural University,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,2,4,3,3,5
+5/11/2026 16:09:45,Md Shakib,Male,University of Dhaka,1st year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 16:12:04,Fahim Rahman,Male,Bangladesh University of Engineering and Technology (BUET),2nd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 16:14:22,Md Rohaman,Male,Jagannath University,4th year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,4,3,2,5
+5/11/2026 16:16:43,Sabbir Rahman,Male,University of Dhaka,3rd year,University hall,Multiple types,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4,2,2,3,4
+5/11/2026 16:18:59,Sadia Akter,Female,Bangladesh University of Professionals (BUP),1st year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,2,4,4,3,5
+5/11/2026 16:21:18,Jannatul Nayeem,Female,Sher-e-Bangla Agricultural University,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,3,3,2,4
+5/11/2026 16:23:37,Raisa Sultana,Female,Bangladesh University of Textiles (BUTEX),3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,2,5
+5/11/2026 16:25:56,Tanvir Ahmed,Male,University of Dhaka,4th year,Family home,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,4,4,3,5
+5/11/2026 16:28:13,Sharmin Jahan,Female,Bangladesh Open University,2nd year,Family home,Mobile data only,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,2,3,3,2,4
+5/11/2026 16:30:31,Najnin Akter,Female,Jagannath University,1st year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 16:32:49,Nusrat Islam,Female,University of Dhaka,3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,3,2,2,2,5
+5/11/2026 16:35:08,Adib Hasan,Male,Bangladesh University of Engineering and Technology (BUET),2nd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 16:37:24,Mahin Ahmed,Male,University of Dhaka,3rd year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,4,3,2,5
+5/11/2026 16:39:41,Nadia Islam,Female,Jagannath University,1st year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4,2,2,3,4
+5/11/2026 16:42:03,Fabiha Islam,Female,Bangladesh University of Professionals (BUP),4th year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,4,4,3,5
+5/11/2026 16:44:18,Sabrina Rahman,Female,Sher-e-Bangla Agricultural University,2nd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,3,3,2,4
+5/11/2026 16:46:35,Rifat Kabir,Male,Bangladesh University of Textiles (BUTEX),3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,3,2,2,3,4
+5/11/2026 16:48:57,Kamrul Islam,Male,University of Dhaka,2nd year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,3,4,4,3,5
+5/11/2026 16:51:13,Saifur Rahman,Male,Bangladesh Open University,4th year,Family home,Mobile data only,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,2,3,3,2,4
+5/11/2026 16:53:28,Yeasin Arafat,Male,Jagannath University,2nd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 16:55:44,Faisal Mahmud,Male,University of Dhaka,1st year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,3,2,2,2,5
+5/11/2026 16:58:01,Jannat Sultana,Female,Bangladesh University of Professionals (BUP),3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,2,4,3,3,5
+5/11/2026 17:00:17,Rashada Akter,Female,Sher-e-Bangla Agricultural University,4th year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,4,3,2,4
+5/11/2026 17:02:36,Sumaiya Rahman,Female,Bangladesh University of Engineering and Technology (BUET),1st year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,4,2,2,3,4
+5/11/2026 17:04:52,Tanvir Islam,Male,Bangladesh University of Textiles (BUTEX),2nd year,Private hostel/mess,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,4,4,3,5
+5/11/2026 17:07:09,Nafisa Jahan,Female,Jagannath University,4th year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 17:09:25,Mahmudul Islam,Male,Bangladesh Open University,3rd year,Family home,Mobile data only,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,2,3,3,2,4
+5/11/2026 17:11:43,Rubal Hossen,Male,University of Dhaka,2nd year,Family home,Multiple types,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,3,4,4,3,5
+5/11/2026 17:13:58,Sabbir Ahmed,Male,Bangladesh University of Professionals (BUP),1st year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,2,5
+5/11/2026 17:16:16,Saharier Sumon,Male,Sher-e-Bangla Agricultural University,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,2,4,3,3,5
+5/11/2026 17:18:31,Rakib Hossain,Male,University of Dhaka,4th year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 17:20:46,Sadia Yasmin,Female,Bangladesh University of Engineering and Technology (BUET),2nd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,4,3,2,5
+5/11/2026 17:23:02,Shihab Hasan,Male,Jagannath University,3rd year,Private hostel/mess,Home broadband/Fiber,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 17:25:18,Anika Rahman,Female,Bangladesh University of Textiles (BUTEX),1st year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,3,2,2,2,5
+5/11/2026 17:27:37,Shamima Sultana,Female,Bangladesh University of Professionals (BUP),4th year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,2,4,3,3,5
+5/11/2026 17:29:53,Maria Akter,Female,Sher-e-Bangla Agricultural University,2nd year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,2,4,3,2,4
+5/11/2026 17:32:11,Nahid Ahmed,Male,University of Dhaka,3rd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,4,2,2,3,4
+5/11/2026 17:34:28,Fariha Noor,Female,Bangladesh Open University,4th year,Family home,Mobile data only,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,2,3,3,2,4
+5/11/2026 17:36:45,Taiba Jahan,Female,Jagannath University,2nd year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
+5/11/2026 17:39:02,Mim Akter,Female,University of Dhaka,1st year,Family home,Home broadband/Fiber,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,2,4,4,3,5
+5/11/2026 17:41:19,Hasibul Hasan,Male,Bangladesh University of Engineering and Technology (BUET),4th year,University hall,University Wi-Fi,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,3,3,2,3,4
