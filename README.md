@@ -2,8 +2,8 @@
 
 **Version:** 1.0  
 **Date:** August 2026  
-**Authors:** [Author Names]  
-**Affiliation:** [University Name / Institution]  
+**Authors:** Farhad Hosen  
+**Affiliation:** Dhaka International University 
 **DOI:** [Pending / Add IEEE DataPort DOI here if uploaded]
 
 ---
